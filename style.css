@@ -1,0 +1,155 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.menubar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.button-style {
+  border-radius: 10px;
+  padding: 10px 20px;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  margin-left: -150px;
+  cursor: pointer; 
+  background-color: #05911c;
+}
+.button-style:hover {
+  background-color: white;
+  color: green;
+}
+.menu a {
+  color: black;
+  text-decoration: none;
+  margin: 20px;
+  color: black;
+}
+.menu a:hover {
+  color: rgba(86, 117, 1, 0.87);
+}
+.menu-two {
+  margin-left: -150px;
+}
+.Top-banner {
+  display: flex;
+}
+.images-size {
+  margin-top: 100px;
+  width: 450px;
+  height: 450px;
+  margin-right: 170px;
+  margin-top: -1px;
+}
+.text-title {
+}
+.button-stylethree {
+  padding: 20px 100px;
+  margin-top: 50px;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #05911c;
+}
+.button-stylethree:hover {
+  background-color: white;
+  color: green;
+}
+.banner-title {
+  position: relative;
+  padding-top: 100px;
+}
+.banner-middel {
+  margin-left: 350px;
+  position: absolute;
+  padding-top: 60px;
+}
+.button-styletwo {
+  padding: 20px 30px;
+  font-size: 15px;
+  font-weight: 400;
+  color: green;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.business-style {
+  display: flex;
+}
+.images-titletwo {
+  margin-top: 130px;
+  width: 500px;
+  height: 500px;
+  margin-right: 100px;
+}
+.button-styletwo {
+  padding: 20px 100px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  font-size: medium;
+  font-weight: bold;
+
+  cursor: pointer;
+  background-color: #05911c;
+}
+.button-styletwo:hover {
+  background-color: white;
+  color: green;
+}
+.business-style {
+}
+.box-title {
+  background-color: rgb(224, 224, 224);
+  padding: 20px;
+  margin-top: 100px;
+}
+.title-box {
+  text-align: center;
+}
+.button-stylethrfour {
+  padding: 20px 30px;
+
+  color: rgb(255, 255, 255);
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+  background-color: #05911c;
+}
+.button-stylethrfour:hover {
+  background-color: white;
+  color: green;
+}
+.Prospects-title {
+  display: flex;
+}
+.Prospects-photo {
+  margin-top: 130px;
+  width: 500px;
+  height: 500px;
+  margin-right: 100px;
+}
+.Mission-title{
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(#05911c,#04c224);
+}
+.Mission-title{
+    background-color: green;
+    text-align: center;
+    padding: 50px;
+    background-image: linear-gradient(#05911c,#04c224);
+}
+.Vision-Statement{
+    margin-top: 80px;
+}
